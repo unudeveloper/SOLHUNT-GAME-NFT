@@ -1,0 +1,337 @@
+[33mcommit 0357000169b29c596fb33fdc36f521f135c0f9e8[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 23:06:45 2021 +0530
+
+    Update screenshot and icons
+
+[33mcommit 5b226e69e8a65faa4df45561eadb88ede78c7154[m
+Merge: d13dc1b 9803faf
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 22:53:34 2021 +0530
+
+    Merge branch 'main' of github.com:SOLBROS/SOLHUNT-GAME
+
+[33mcommit d13dc1b4b2c15577fe38d233161f610f26e1fa4d[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 22:53:27 2021 +0530
+
+    Update token info
+
+[33mcommit 9803faf562adafd0be70131870a0e60b668edf10[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 09:13:56 2021 -0700
+
+    Update README.md
+
+[33mcommit 4d55ec6a3224b8aa29f06c94e07607c166200bcd[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 18:44:57 2021 +0530
+
+    Adding logi
+
+[33mcommit 50754b68bb423a37b32ec90f0bc60690be7f9638[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 18:42:33 2021 +0530
+
+    Using assets from folder
+
+[33mcommit d37a6453b5b18045d70781087b24c770adabd598[m
+Merge: 5337bba 2e6b633
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 18:28:30 2021 +0530
+
+    Merge branch 'main' of github.com:SOLBROS/SOLHUNT-GAME
+
+[33mcommit 5337bba2144f1897e78e8a1ae1c973c5f6d4dbdb[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 18:28:24 2021 +0530
+
+    Added architecture to readme
+
+[33mcommit 2e6b6332bb989adee535cc3048c279d798ab0291[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 18:10:01 2021 +0530
+
+    how we built
+
+[33mcommit 4e5671948f3c6b567905038223043bdb457ae161[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 03:39:20 2021 -0700
+
+    Update README.md
+
+[33mcommit ee997beeda51123305a6943f079101f609d52850[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 03:36:39 2021 -0700
+
+    Update README.md
+
+[33mcommit 5ff05754f17fc63f8ef21e617c0bfb05ce2764de[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 16:06:06 2021 +0530
+
+    distroy phaser game on unmount
+
+[33mcommit 560203eebfe1ea384c1a4746fabd9727115392fa[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 15:58:55 2021 +0530
+
+    Adding more features
+
+[33mcommit 499eeb1825d5fd4f5270e0992e6f5d8390ff3546[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 15:57:17 2021 +0530
+
+    Updating links
+
+[33mcommit e8b29d3eb68489ed09fd608986dd0ce74dbcfa86[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 15:55:50 2021 +0530
+
+    Adding game and store link
+
+[33mcommit 96b62251eea0dfb00c9e83da578a81adee12eb09[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 15:53:23 2021 +0530
+
+    Adding screenshots to the game
+
+[33mcommit b40c59c658056be432655a9459d9c76b6bc2a7bb[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 03:06:26 2021 -0700
+
+    updated readme
+
+[33mcommit 30df3222516a8835856dd71973ceee5df451af91[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 13:10:32 2021 +0530
+
+    Adding green warrior
+
+[33mcommit 3480f96550444912ea1fca803d554aa722f7d8fc[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Fri Oct 15 03:11:30 2021 +0530
+
+    Added store url
+
+[33mcommit 604f0d980ac616ef80b1abda6dfcdc33b575cd17[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Thu Oct 14 21:01:52 2021 +0530
+
+    Fixing ssl bug
+
+[33mcommit ea97c24e6cbf803219cb5292393c51941e2b330e[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Thu Oct 14 20:46:34 2021 +0530
+
+    Adding trophy cabinet and updating swap
+
+[33mcommit 4f301ca09cf245a4747f6eee7b6b7f6fe9505a10[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 14:26:48 2021 +0530
+
+    Update title and domain
+
+[33mcommit f331d3d43df83411a74ef18e9dbe7a539a83b19d[m
+Merge: ed7aa85 e6331a5
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 13:46:39 2021 +0530
+
+    Merge pull request #4 from SOLBROS/new-logo
+    
+    New logo added
+
+[33mcommit e6331a53876bd1dc8d10abed82a3371305ad8c7a[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 13:45:13 2021 +0530
+
+    changes
+
+[33mcommit f715d09144dc8be06c7c08a28a9989533659681a[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 13:44:06 2021 +0530
+
+    added new logo
+
+[33mcommit ed7aa855bed78a97bf33ab2f614cd53efb753594[m
+Merge: 692c3af cde2f30
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 12:23:55 2021 +0530
+
+    Merge pull request #3 from SOLBROS/am-mint-reward
+    
+    Deploy to devnet
+
+[33mcommit cde2f30dcdc6057f2dee3d6250fa09c5bef82c6d[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 12:19:44 2021 +0530
+
+    Adding deploy script
+
+[33mcommit 401d17155914364aa76cf5519ac98f07167cb7b8[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 12:05:10 2021 +0530
+
+    Use devnet
+
+[33mcommit 692c3af98f551eb4e1f125b8a559783275c6a3a4[m
+Merge: b04c3fa a24c48e
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 11:30:09 2021 +0530
+
+    Merge pull request #2 from SOLBROS/am-mint-reward
+    
+    Update candy machine config
+
+[33mcommit a24c48ed48abca086968ff04d97f099309eb63f2[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 11:28:56 2021 +0530
+
+    Update candy machine config
+
+[33mcommit b04c3fa0b6eee06fb6b9b1522622cde13be2eca1[m
+Merge: 2db61db 0aee9c5
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 11:24:37 2021 +0530
+
+    Merge pull request #1 from SOLBROS/am-mint-reward
+    
+    Adding Reward NFT Minting
+
+[33mcommit 0aee9c53ed86d28a25e0cf80a1fdada621ff4609[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 11:23:27 2021 +0530
+
+    Adding env and fixing bug
+
+[33mcommit 757e308e9203c944eead83a03a8d2d5b158b79f3[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 10:59:24 2021 +0530
+
+    Removing test button
+
+[33mcommit da1222627bcb6ff502d1f5fcb9ba6d3f236d4bc8[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 10:58:39 2021 +0530
+
+    Better snackbar and added nft reward function
+
+[33mcommit 434e2eb767c0d3bf9cdffd850fb4eec51d6fcb4a[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Wed Oct 13 01:51:37 2021 +0530
+
+    Adding mint reward options
+
+[33mcommit 2db61db11e5b2e857a3780e3fb1a04c246606d2e[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 20:01:09 2021 +0530
+
+    Ficing typo
+
+[33mcommit 713fea292e9e2c003a44e2a7c96897c6e0003ba7[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 20:00:35 2021 +0530
+
+    Adding readme
+
+[33mcommit 8cbf7f5940c4da65936834b0687038f509ea61ea[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 12:16:36 2021 +0530
+
+    Loading for token loading
+
+[33mcommit 6ee8fc2bba268efd78328359ddf7a3fa62b8c8d0[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 11:06:51 2021 +0530
+
+    Using solana logo
+
+[33mcommit 4214e3cdf29a7bf432a66ce320451791f90cb028[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 10:27:03 2021 +0530
+
+    Adding swap code
+
+[33mcommit ae63059f0edff85fe271545f1ba0837a60ef30dc[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 09:44:02 2021 +0530
+
+    Alert only if result not updated
+
+[33mcommit d21759eac794fe20a98f72a7be61e8ef65f0dbca[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 09:38:55 2021 +0530
+
+    Show treasure collected
+
+[33mcommit e94ac418936f99a52ccd2a3fe0769d99baae2ccf[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 01:17:56 2021 +0530
+
+    Update game favicons
+
+[33mcommit 575c9a2bdf5e772622d8f8bf4e8ba448cdf14872[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 01:13:48 2021 +0530
+
+    Better loading and initialization
+
+[33mcommit 8d17249d7e9445d3e142647448c25115a4f50243[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 01:08:26 2021 +0530
+
+    Adding game info making game responsive
+
+[33mcommit a3ad7e2814b7aeb14fae76b03c461f64520a530f[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 00:56:57 2021 +0530
+
+    Using snackbar instead of alert
+
+[33mcommit b2c46f26b1ae1a5e49eb5b49726d65bedc5fd716[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Tue Oct 12 00:30:40 2021 +0530
+
+    Setting initial token blanace
+
+[33mcommit 2ee6ad569d0f7c52c8ed8f1a9aa7a46722850110[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Mon Oct 11 23:48:58 2021 +0530
+
+    continuing game
+
+[33mcommit f197ce507b4e7294d635bd7d152f24dc5f802419[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Mon Oct 11 23:48:43 2021 +0530
+
+    Adding scripts back
+
+[33mcommit 606e391593a258cdac1f36097b2124a9cfcded4f[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Mon Oct 11 22:31:23 2021 +0530
+
+    Connecting with program
+
+[33mcommit 3766201346119c52815efb6efacc575b04463464[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Mon Oct 11 21:02:50 2021 +0530
+
+    Update program
+
+[33mcommit a51b03175ff01fddd64fe677dad2523a5661dc65[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Mon Oct 11 20:55:55 2021 +0530
+
+    Initializing
+
+[33mcommit 6512a669ece9fab7735ba8522ec1567312f211f7[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Sun Oct 10 22:36:24 2021 +0530
+
+    integrating..
+
+[33mcommit 0fb4bd45f49978be96bf2626f6e94593a0e74415[m
+Author: unudeveloper <unudeveloper@gmail.com>
+Date:   Sun Oct 10 20:17:41 2021 +0530
+
+    initial-commit
