@@ -3,7 +3,7 @@ const anchor = require("@project-serum/anchor");
 const { TOKEN_PROGRAM_ID, Token } = require("@solana/spl-token");
 const TOKEN_SUPPLY = 100000;
 const programIdl = require("./main_program_final.json");
-const fs = require("fs");
+const fs = require("fs"); 
 
 // const adata = anchor.web3.Keypair.generate();
 // console.log(adata.secretKey.toString());
